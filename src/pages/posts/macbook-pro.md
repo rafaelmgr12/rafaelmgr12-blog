@@ -6,7 +6,8 @@ layout: ../../layouts/BlogPost.astro
 title: Macbook Air M1
 createdAt: 1664318831705
 updatedAt: 1664326665495
-tags: []
+tags:
+  - Computing
 heroImage: /posts/macbook-pro_thumbnail.png
 ---
 

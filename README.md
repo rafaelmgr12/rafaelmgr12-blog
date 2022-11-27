@@ -52,3 +52,7 @@ npm run live-import
 ## License
 
 MIT License.
+
+## Reference 
+To build this site I use the following repo as reference
+* [Takuya Matsuyama](https://github.com/craftzdog/craftzdog-uses)
